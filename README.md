@@ -16,7 +16,8 @@ Me<br><br>🎓 I’m a B.E. Electronics and Communication Engineering student at
 ![](https://github-profile-trophy.vercel.app/?username=saravanan-mc&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=saravanan-mc&limit=1000&theme=dark&combine_contributions=true)
+![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=saravanan-mc&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saravanan-mc&icon=0&color=1)](https://visitcount.itsvg.in)
