@@ -1,196 +1,186 @@
-# 🚀 Saravanan M | Full Stack Developer & Electronics Engineer
+🚀 Saravanan M | Full Stack Developer & Electronics Engineer
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+Digital+Universe!;Electronics+%26+Communication+Engineering+Student;Full+Stack+Developer+%7C+Problem+Solver;Building+the+Future%2C+One+Code+at+a+Time" alt="Typing Animation" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&#x26;size=36&#x26;duration=3000&#x26;pause=1500&#x26;color=00FF99&#x26;background=00000000&#x26;center=true&#x26;vCenter=true&#x26;multiline=true&#x26;width=1000&#x26;height=150&#x26;lines=Welcome+to+My+Digital+Universe!;Electronics+%26+Communication+Engineering+Student;Full+Stack+Developer+%7C+Problem+Solver+Extraordinaire;Building+the+Future%2C+One+Pixel+and+One+Line+of+Code+at+a+Time;Innovating+with+AI%2C+IoT%2C+and+Beyond!;Let&#x27;s+Code+the+Impossible!;🚀+Ignite+Your+Ideas+Here!;🌌+Explore+Infinite+Possibilities!" alt="Enhanced Typing Animation">
+  <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="300" alt="Coding Galaxy Animation">
 
 
----
+🌟 About Me
+<img align="right" alt="Coding Adventure" width="400" src="https://media.giphy.com/media/13UZisxCxkjPwI/giphy.gif">
+🎓 Electronics & Communication Engineering @ Bannari Amman Institute of Technology
+📅 Graduating in 2026 | Anna University
+🔭 Currently working on:
 
-## 🌟 About Me
+🌐 Student Improvement Tracker - Comprehensive progress monitoring system with real-time analytics
+🧠 AI-powered Mental Wellness Platform - Intelligent mental health support system using machine learning
+🤖 IoT Smart Home Automation - Voice-controlled home devices integration
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+🤝 Looking to collaborate on:
 
-🎓 **Electronics & Communication Engineering** @ Bannari Amman Institute of Technology  
-📅 **Graduating in 2026** | Anna University  
+Full Stack Development Projects
+Java-based Enterprise Applications
+Open Source Contributions
+AI/ML and IoT Innovations
 
-🔭 **Currently working on:**
-- 🌐 **Student Improvement Tracker** - Comprehensive progress monitoring system
-- 🧠 **AI-powered Mental Wellness Platform** - Intelligent mental health support system
+🌱 Currently learning:
 
-🤝 **Looking to collaborate on:**
-- Full Stack Development Projects
-- Java-based Enterprise Applications
-- Open Source Contributions
+Advanced Java & Spring Framework
+Database Design & SQL Optimization
+Modern UI/UX Design Principles
+System Architecture & Design Patterns
+Cloud Computing with AWS/Azure
 
-🌱 **Currently learning:**
-- Advanced Java & Spring Framework
-- Database Design & SQL Optimization  
-- Modern UI/UX Design Principles
-- System Architecture & Design Patterns
+💬 Ask me about: Java, C, HTML, CSS, JavaScript, SQL, UI/UX design, IoT, and AI ethics
+⚡ Fun fact: I once built a robot that solves Rubik's cubes faster than I can – talk about creating my own competition!
 
-💬 **Ask me about:** Java, C, HTML, CSS, JavaScript, SQL, and UI/UX design
+🌐 Connect With Me
 
-⚡ **Fun fact:** I enjoy solving coding challenges and creating projects that make student life easier and more productive!
 
----
 
-## 🌐 Connect With Me
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/saravanan1012/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:saravananmcms@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saravanan_m10/)
 
-</div>
 
----
+💻 Tech Stack
 
-## 💻 Tech Stack
+Programming Languages
 
-<div align="center">
 
-### Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### Database & Backend
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+Frontend Development
 
-### Development Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-</div>
 
----
 
-## 📊 GitHub Stats
+Database & Backend
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saravanan-mc&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan-mc&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanan-mc&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
-</div>
 
----
+Design Tools
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saravanan-mc&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
 
----
 
-## 🔝 Top Contributed Repositories
+Development Tools & Platforms
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=saravanan-mc&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
-</div>
 
----
 
-## 🧩 LeetCode Stats
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/saravanan_m10?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
-</div>
 
----
 
-## 🎯 Current Projects
 
-<div align="center">
+📊 GitHub Stats
 
-| Project | Tech Stack | Status | Description |
-|---------|------------|---------|-------------|
-| 🎓 **Student Improvement Tracker** | React, Java, MySQL, Spring Boot | 🚧 In Development | Comprehensive progress monitoring and analytics system |
-| 🧠 **AI Mental Wellness Platform** | React, Node.js, Python, TensorFlow | ✅ MVP Complete | AI-powered mental health support with mood tracking |
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saravanan-mc&#x26;theme=radical&#x26;hide_border=true&#x26;include_all_commits=true&#x26;count_private=true&#x26;show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan-mc&#x26;theme=radical&#x26;hide_border=true&#x26;include_all_commits=true&#x26;count_private=true&#x26;layout=compact">
 
-</div>
 
----
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanan-mc&#x26;theme=radical&#x26;hide_border=true&#x26;fire=FF0000" alt="GitHub Streak Stats">
 
-## 📈 Coding Activity
 
-```text
-🌅 Morning    ████████░░░░░░░░░░   40%
-🌞 Daytime    ███████████░░░░░░░   55%
-🌃 Evening    ██████░░░░░░░░░░░░   30%
-🌙 Night      ████░░░░░░░░░░░░░░   20%
-```
+🏆 GitHub Trophies
 
----
+  <img src="https://github-profile-trophy.vercel.app/?username=saravanan-mc&#x26;theme=onedark&#x26;no-frame=true&#x26;no-bg=true&#x26;margin-w=4&#x26;column=6">
 
-## 🌟 Fun Facts & Quick Info
 
-```javascript
-const saravanan = {
+🔝 Top Contributed Repositories
+
+  <img src="https://github-contributor-stats.vercel.app/api?username=saravanan-mc&#x26;theme=dracula&#x26;combine_all_yearly_contributions=true&#x26;limit=5" alt="GitHub Contributor Stats">
+
+
+🧩 LeetCode Stats
+
+  <img src="https://leetcard.jacoblin.cool/saravanan_m10?theme=nord&#x26;font=JetBrains%20Mono&#x26;ext=heatmap" alt="LeetCode Stats">
+
+
+🎯 Current Projects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProjectTech StackStatusDescription🎓 Student Improvement TrackerReact, Java, MySQL, Spring Boot🚧 In DevelopmentComprehensive progress monitoring and analytics system with gamification elements🧠 AI Mental Wellness PlatformReact, Node.js, Python, TensorFlow✅ MVP CompleteAI-powered mental health support with mood tracking and personalized recommendations🤖 IoT Smart Campus SystemRaspberry Pi, Java, MQTT🌱 PlanningCampus-wide automation for energy efficiency and security
+
+
+📈 Coding Activity
+text🌅 Morning    ██████████░░░░░░░░   50%  // Peak creativity hours!
+🌞 Daytime    █████████████░░░░░   65%  // Deep focus mode activated
+🌃 Evening    ████████░░░░░░░░░░   40%  // Collaboration and reviews
+🌙 Night      ██████░░░░░░░░░░░░   30%  // Late-night breakthroughs
+
+  <img src="https://media.giphy.com/media/iIevTr2cM00i4/giphy.gif" width="200" alt="Coding Activity Animation">
+
+
+🌟 Fun Facts & Quick Info
+javascriptconst saravanan = {
     location: "Tamil Nadu, India",
     education: "B.E. Electronics & Communication Engineering",
     university: "Bannari Amman Institute of Technology (Anna University)",
     graduation: "2026",
-    currentFocus: ["Full Stack Development", "Java Applications", "UI/UX Design"],
-    hobbies: ["Coding Challenges", "Project Building", "Learning New Technologies"],
+    currentFocus: ["Full Stack Development", "Java Applications", "UI/UX Design", "AI/ML", "IoT"],
+    hobbies: ["Coding Challenges", "Project Building", "Learning New Technologies", "Gaming", "Photography"],
     motto: "Making student life easier and more productive through technology",
-    favoriteLanguages: ["Java", "JavaScript", "C"],
-    currentlyWorkingOn: "AI-powered educational platforms",
-    lookingToCollaborate: "Full Stack & Java-based projects"
+    favoriteLanguages: ["Java", "JavaScript", "C", "Python"],
+    currentlyWorkingOn: "AI-powered educational platforms and IoT integrations",
+    lookingToCollaborate: "Full Stack, Java-based projects, and innovative tech solutions",
+    superPower: "Turning coffee into code at warp speed! ☕🚀"
 };
-```
 
----
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="Code Magic Animation">
 
-## 🚀 Let's Connect and Build Together!
 
-<div align="center">
+🚀 Let's Connect and Build Together!
 
-*"Innovation distinguishes between a leader and a follower"* - Steve Jobs
+"Innovation distinguishes between a leader and a follower" - Steve Jobs
+Open for collaboration on:
 
-**Open for collaboration on:**
-- 🌐 Full Stack Development
-- ☕ Java Enterprise Applications  
-- 🎨 UI/UX Design Projects
-- 🤖 AI/ML Integration
-- 📱 Educational Technology Solutions
+🌐 Full Stack Development
+☕ Java Enterprise Applications
+🎨 UI/UX Design Projects
+🤖 AI/ML Integration
+📱 Educational Technology Solutions
+🔌 IoT and Hardware-Software Fusion
 
-**Feel free to reach out if you want to:**
-- 💼 Discuss job opportunities
-- 🤝 Collaborate on projects
-- 💡 Share ideas and insights
-- 🎯 Work on open-source contributions
+Feel free to reach out if you want to:
 
-</div>
+💼 Discuss job opportunities
+🤝 Collaborate on projects
+💡 Share ideas and insights
+🎯 Work on open-source contributions
+☕ Grab a virtual coffee chat
 
----
 
-<div align="center">
-  
-[![Profile Views](https://visitcount.itsvg.in/api?id=saravanan-mc&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### 🌟 *"Turning Ideas Into Reality, One Commit At A Time"* 🌟
 
-**Made with ❤️ by Saravanan M**
+Failed to load imageView link
+🌟 "Turning Ideas Into Reality, One Commit At A Time" 🌟
+Made with ❤️ by Saravanan M
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-</div>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Final Rocket Animation" />
+2.3sExpertHow can Grok help?
