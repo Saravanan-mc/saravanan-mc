@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+Digital+Universe!;Electronics+%26+Communication+Engineering+Student;Full+Stack+Developer+%7C+Problem+Solver;Building+the+Future%2C+One+Code+at+a+Time" alt="Typing Animation" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saravanan-mc&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
 
 ---
 
