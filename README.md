@@ -88,7 +88,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanan-mc&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanan-mc&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </div>
 
 ---
