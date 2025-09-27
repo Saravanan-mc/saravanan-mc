@@ -88,7 +88,7 @@
 </div>
 
 <div align="center">
-<!-- <img src="https://streak-stats.demolab.com?user=saravanan-mc" alt="GitHub Streak Stats" /> -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=saravanan-mc&theme=dark&hide_border=false"/>
 </div>
 
 ---
