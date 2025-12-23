@@ -123,8 +123,7 @@
 
 | Project | Tech Stack | Status | Description |
 |---------|------------|---------|-------------|
-| 🎓 **Student Improvement Tracker** | React, Java, MySQL, Spring Boot | 🚧 In Development | Comprehensive progress monitoring and analytics system |
-| 🧠 **AI Mental Wellness Platform** | React, Node.js, Python, TensorFlow | ✅ MVP Complete | AI-powered mental health support with mood tracking |
+| 🎓 **Student Improvement Tracker** | HTML, CSS, JS, PHP, MySQL | 🚧 In Development | Comprehensive progress monitoring and analytics system |
 
 </div>
 
