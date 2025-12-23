@@ -185,7 +185,7 @@ const saravanan = {
 
 <div align="center">
   
-[![Profile Views](https://visitcount.itsvg.in/api?id=saravanan-mc&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Profile Views]([https://visitcount.itsvg.in/api?id=saravanan-mc&icon=0&color=1](https://saravanan-mc.github.io/portfolio/))](https://visitcount.itsvg.in)
 
 ### 🌟 *"Turning Ideas Into Reality, One Commit At A Time"* 🌟
 
