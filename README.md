@@ -185,7 +185,14 @@ const saravanan = {
 
 <div align="center">
   
-[![Profile Views]([https://visitcount.itsvg.in/api?id=saravanan-mc&icon=0&color=1](https://saravanan-mc.github.io/portfolio/))]([https://visitcount.itsvg.in](https://saravanan-mc.github.io/portfolio/))
+<p align="center">
+  <a href="https://saravanan-mc.github.io/portfolio/" title="View my Portfolio">
+    <img
+      src="https://komarev.com/ghpvc/?username=saravanan-mc&label=Profile%20Views&color=blue&style=flat"
+      alt="Saravanan M GitHub profile views counter"
+    />
+  </a>
+</p>
 
 ### 🌟 *"Turning Ideas Into Reality, One Commit At A Time"* 🌟
 
