@@ -109,8 +109,13 @@
 ## 🧩 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/saravanan_m10?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+  <img
+    src="https://leetcard.jacoblin.cool/saravanan_m10?theme=dark&font=Karma"
+    alt="LeetCode Stats"
+  />
 </div>
+
+
 
 ---
 
