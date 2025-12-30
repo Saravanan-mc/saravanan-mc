@@ -85,12 +85,15 @@
   <img height="180px" src="https://github-readme-stats-fast.vercel.app/api?username=saravanan-mc&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Saravanan-mc's GitHub stats"/>
   <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=saravanan-mc&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Saravanan-mc's top languages"/>
 </div>
+
+
+
 ---
 
-## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saravanan-mc&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img height="80" src="https://github-profile-trophy.screw-hand.vercel.app/?username=saravanan-mc&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Saravanan-mc's GitHub trophies" />
 </div>
 
 ---
