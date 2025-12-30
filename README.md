@@ -81,16 +81,10 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saravanan-mc&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan-mc&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api?username=saravanan-mc&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Saravanan-mc's GitHub stats"/>
+  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=saravanan-mc&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Saravanan-mc's top languages"/>
 </div>
-
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=saravanan-mc&theme=dark&hide_border=false"/>
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
