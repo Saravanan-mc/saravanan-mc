@@ -1,108 +1,177 @@
-# 🚀 Saravanan M | Full Stack Developer & Electronics Engineer  
- 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+Digital+Universe!;Electronics+%26+Communication+Engineering+Student;Full+Stack+Developer+%7C+Problem+Solver;Building+the+Future%2C+One+Code+at+a+Time" alt="Typing Animation" />
-</div>
+# 🚀 Saravanan M
 
-
----
-
-## 🌟 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-🎓 **Electronics & Communication Engineering** @ Bannari Amman Institute of Technology  
-📅 **Graduating in 2026** | Anna University  
-
-🔭 **Currently working on:**
-- 🌐 **Student Improvement Tracker** - Comprehensive progress monitoring system
-- 🧠 **AI-powered Mental Wellness Platform** - Intelligent mental health support system
-
-🤝 **Looking to collaborate on:**
-- Full Stack Development Projects
-- Java-based Enterprise Applications
-- Open Source Contributions
-
-🌱 **Currently learning:**
-- Advanced Java & Spring Framework
-- Database Design & SQL Optimization  
-- Modern UI/UX Design Principles
-- System Architecture & Design Patterns
-
-💬 **Ask me about:** Java, C, HTML, CSS, JavaScript, SQL, and UI/UX design
-
-⚡ **Fun fact:** I enjoy solving coding challenges and creating projects that make student life easier and more productive!
-
----
-
-## 🌐 Connect With Me
+### Full Stack Developer • Java Developer • Electronics & Communication Engineer
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://saravanan-mc.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/saravanan1012/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:saravananmcms@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saravanan_m10/)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1500&color=00F5FF&center=true&vCenter=true&width=900&height=70&lines=Welcome+to+My+Digital+Universe!;Full+Stack+Developer+%7C+Java+Enthusiast;Building+AI-Powered+Applications;Code.+Create.+Innovate.+Repeat." alt="Typing Animation" />
+
+<br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding animation" />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saravanan-mc.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saravanan1012/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saravananmcms@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saravanan-mc)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/saravanan_m10/)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Saravanan-mc&label=Profile%20Views&color=00C7B7&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
+
+<img align="right" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Developer animation" />
+
+🎓 **B.E. Electronics & Communication Engineering**  
+📍 Bannari Amman Institute of Technology (Anna University) • Graduating 2026
+
+I'm a passionate Full Stack & Java developer who loves turning ideas into practical, useful applications. I focus on building clean, scalable systems and exploring AI-powered solutions that make student life easier and more productive.
+
+- 🔭 **Currently working on:** AI-powered educational platforms & real-time communication systems
+- 🌱 **Learning:** Spring Boot, Advanced Backend Engineering, System Design & RAG applications
+- 💬 **Ask me about:** Java, Spring Boot, JavaScript, React, SQL, Full Stack Development, UI/UX
+- 🤝 **Open to:** Software opportunities, Full Stack projects, Java enterprise apps & open-source collaboration
+- ⚡ **Fun fact:** I enjoy solving coding challenges and building tools that help students
+
+<br clear="right"/>
+
+> *"Turning ideas into reality, one commit at a time."*
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
 
 ### Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,c,cpp,js,python,php&theme=dark" alt="Languages" />
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,threejs&theme=dark" alt="Frontend" />
 
-### Database & Backend
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,mysql,mongodb&theme=dark" alt="Backend" />
 
-### Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
-### Development Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,vercel,netlify&theme=dark" alt="Tools" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Secure Chat & Video Calling
+Real-time messaging + video calling application with a focus on secure communication.
+
+**Tech:** JavaScript • Node.js • WebRTC
+
+[📂 Source](https://github.com/Saravanan-mc/Secure_Real_Time_Chat-Video_Calling_System) • [🌐 Live Demo](https://chatapp-1-k7bk.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Voice2SQL
+Voice-to-SQL interactive project combined with 3D visual learning experiences.
+
+**Tech:** SQL • JavaScript • Three.js • AI
+
+[📂 Source](https://github.com/Saravanan-mc/3DSQLAndvoice-AI) • [🌐 Live Demo](https://sql3d.netlify.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Student Ecosystem
+Student community platform with clubs, alumni, lost & found, talent sharing & wellness resources.
+
+**Tech:** PHP • MySQL • JavaScript • AI
+
+[📂 Source](https://github.com/Saravanan-mc/Student-Ecosystem)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 MediPulse
+Healthcare-focused application exploring digital healthcare workflows and accessible UX.
+
+**Tech:** Web Development
+
+[📂 Source](https://github.com/Saravanan-mc/MediPulse) • [🌐 Live Demo](https://medipulse-bice.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 Ezhuthu AI Classroom
+Educational technology project focused on AI-assisted digital learning experiences.
+
+[📂 Source](https://github.com/Saravanan-mc/Ezhuthu-AI-Classroom)
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Spring Boot Todo
+Clean task management app built to practice Java backend development with Spring Boot.
+
+**Tech:** Java • Spring Boot
+
+[📂 Source](https://github.com/Saravanan-mc/SpringbootTodo)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api?username=saravanan-mc&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Saravanan-mc's GitHub stats"/>
-  <img height="180px" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=saravanan-mc&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Saravanan-mc's top languages"/>
+<br/>
+<a href="https://github.com/Saravanan-mc?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_All_Projects-00C7B7?style=for-the-badge&logo=github&logoColor=white" alt="All Projects" />
+</a>
 </div>
-
-
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Saravanan-mc&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saravanan-mc&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Saravanan-mc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saravanan-mc&bg_color=0d1117&color=00c7b7&line=00f5ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img height="80" src="https://github-profile-trophy.screw-hand.vercel.app/?username=saravanan-mc&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Saravanan-mc's GitHub trophies" />
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=saravanan-mc&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Saravanan-mc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -110,102 +179,45 @@
 ## 🧩 LeetCode Stats
 
 <div align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/saravanan_m10?theme=dark&font=Karma"
-    alt="LeetCode Stats"
-  />
+<a href="https://leetcode.com/u/saravanan_m10/">
+<img src="https://leetcard.jacoblin.cool/saravanan_m10?theme=dark&font=Karma&ext=heatmap" width="65%" alt="LeetCode Stats" />
+</a>
 </div>
-
-
 
 ---
 
-## 🎯 Current Projects
+## 🎯 Current Focus
 
 <div align="center">
 
-| Project | Tech Stack | Status | Description |
-|---------|------------|---------|-------------|
-| 🎓 **Student Improvement Tracker** | HTML, CSS, JS, PHP, MySQL | 🚧 In Development | Comprehensive progress monitoring and analytics system |
+| ☕ Java & Backend              | 🌐 Full Stack Development     | 🤖 AI Applications            |
+|-------------------------------|-------------------------------|-------------------------------|
+| Java • Spring Boot • OOP      | React • APIs • Databases      | AI • RAG • Voice-to-SQL       |
 
 </div>
 
 ---
 
-## 📈 Coding Activity
-
-```text
-🌅 Morning    ████████░░░░░░░░░░   40%
-🌞 Daytime    ███████████░░░░░░░   55%
-🌃 Evening    ██████░░░░░░░░░░░░   30%
-🌙 Night      ████░░░░░░░░░░░░░░   20%
-```
-
----
-
-## 🌟 Fun Facts & Quick Info
-
-```javascript
-const saravanan = {
-    location: "Tamil Nadu, India",
-    education: "B.E. Electronics & Communication Engineering",
-    university: "Bannari Amman Institute of Technology (Anna University)",
-    graduation: "2026",
-    currentFocus: ["Full Stack Development", "Java Applications", "UI/UX Design"],
-    hobbies: ["Coding Challenges", "Project Building", "Learning New Technologies"],
-    motto: "Making student life easier and more productive through technology",
-    favoriteLanguages: ["Java", "JavaScript", "C"],
-    currentlyWorkingOn: "AI-powered educational platforms",
-    lookingToCollaborate: "Full Stack & Java-based projects"
-};
-```
-
----
-
-## 🚀 Let's Connect and Build Together!
+## 🤝 Let's Connect & Build Together
 
 <div align="center">
 
-*"Innovation distinguishes between a leader and a follower"* - Steve Jobs
+I'm always open to discussing job opportunities, collaborating on meaningful projects, or just sharing ideas.
 
-**Open for collaboration on:**
-- 🌐 Full Stack Development
-- ☕ Java Enterprise Applications  
-- 🎨 UI/UX Design Projects
-- 🤖 AI/ML Integration
-- 📱 Educational Technology Solutions
+<br/>
 
-**Feel free to reach out if you want to:**
-- 💼 Discuss job opportunities
-- 🤝 Collaborate on projects
-- 💡 Share ideas and insights
-- 🎯 Work on open-source contributions
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saravanan1012/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saravananmcms@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://saravanan-mc.github.io/portfolio/)
 
-</div>
+<br/><br/>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=00C7B7&center=true&vCenter=true&width=600&lines=Keep+Learning.;Keep+Building.;Keep+Innovating." alt="Closing animation" />
 
+<br/>
 
-<div align="center">
-  
-<p align="center">
-  <a href="https://saravanan-mc.github.io/portfolio/" title="View my Portfolio">
-    <img
-      src="https://komarev.com/ghpvc/?username=saravanan-mc&label=Profile%20Views&color=blue&style=flat"
-      alt="Saravanan M GitHub profile views counter"
-    />
-  </a>
-</p>
+**⭐ Thanks for visiting my profile!**
 
-### 🌟 *"Turning Ideas Into Reality, One Commit At A Time"* 🌟
-
-**Made with ❤️ by Saravanan M**
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Made with ❤️ by **Saravanan M**
 
 </div>
-
-
-re-write preminum and best looking add some animetion and new gif uldimated page re-write github
-
-
